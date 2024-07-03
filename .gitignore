@@ -20,5 +20,5 @@ lerna-debug.log*
 node_modules/
 build/
 .svelte-kit/
-
+dist/
 .vscode/
